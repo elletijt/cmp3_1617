@@ -1,4 +1,6 @@
-# WEEK 6 - Drupal 7
+# HTML5 THEMA NAAR DRUPAL THEME
 
-importeer database: _sql/drupal-less.sql  
-verander db-settings in sites/default/settings.php  
+Het thema bevindt zich onder sites > all > foundation
+
+Ik ben vertrokken van het thema van lesweek 6 omdat ik het zo duidelijker vond dan helemaal van 0 te beginnen. 
+
