@@ -84,11 +84,6 @@
     </div>
 </div>
 
-<div id="header" class="hero callout large primary">
-    <div class="row column text-center">
-        <h1><?php echo foundation_get_title(); ?></h1>
-    </div>
-</div>
 <div class="row" id="content">
     <div class="medium-8 columns">
         <?php print render($page['content']); ?>

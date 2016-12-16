@@ -249,9 +249,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'drupal-less',
-      'username' => 'cmp3',
-      'password' => 'cmp3',
+      'database' => 'tijtgat-cmp3',
+      'username' => 'root',
+      'password' => 'bitnami',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
