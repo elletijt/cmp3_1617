@@ -1,0 +1,105 @@
+#header {
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url("../img/gardening.jpg");
+	height: 80%;
+	margin-bottom: 0px;
+}
+
+
+.hero h1 {
+	font-family: "Caviar Dreams";
+	font-size: 50px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #BDBDBD;
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+	opacity: 0.5;
+	margin-top: 15%;
+
+}
+
+
+
+/* Titel onzichtbaar maken van de pagina!! */
+
+#block-system-main-menu h2 {
+	display: none;
+}
+
+#block-menu-menu-footer-menu- h2 {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+.top-bar {
+	background-color: #C06014;
+}
+
+.top-bar ul {
+	background-color: #C06014;
+	margin-right: 150px;
+}
+
+.menu .active>a {
+	text-decoration: underline;
+}
+
+.nav > li > a:hover,
+.nav > li > a:visited
+{
+	color: white;
+	background-color: #C06014;
+}
+
+.nav a {
+	display: block;
+	margin-bottom: 10px;
+	padding: 30px 0;
+
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: "Caviar Dreams";
+	text-transform: uppercase;
+
+	color: white;
+
+}
+
+.nav a:hover,
+.nav a:visited {
+	color: white;
+}
+
+.nav a:hover {
+	text-decoration: underline;
+}
+
+
+.footer-navigation {
+	background-color: #C06014;
+	height: 80px;
+}
+
+.footer-navigation a {
+	padding: 30px ;
+	margin-top: 10px;
+
+}
+
+#block-menu-menu-footer-menu- ul.menu.nav  {
+	margin: 0 auto;
+	text-align: center;
+	margin-left: 550px;
+}
